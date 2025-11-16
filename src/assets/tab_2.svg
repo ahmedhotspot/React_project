@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.145" height="26.848" viewBox="0 0 30.145 26.848">
+  <g id="wallet-outline" transform="translate(0.75 0.76)" opacity="0.98">
+    <path id="Path_1807" data-name="Path 1807" d="M6.68,10.125H28.715A3.305,3.305,0,0,1,32.02,13.43V26.651a3.305,3.305,0,0,1-3.305,3.305H6.68a3.305,3.305,0,0,1-3.305-3.305V13.43A3.305,3.305,0,0,1,6.68,10.125Z" transform="translate(-3.375 -4.617)" fill="none" stroke="#8e8e8e" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_1808" data-name="Path 1808" d="M28.4,10.009V7.943a3.443,3.443,0,0,0-4.088-3.382L6.173,7.657a3.443,3.443,0,0,0-2.8,3.385v3.374" transform="translate(-3.375 -4.501)" fill="none" stroke="#8e8e8e" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_1809" data-name="Path 1809" d="M25.085,20.921a1.46,1.46,0,1,1,1.46-1.46A1.46,1.46,0,0,1,25.085,20.921Z" transform="translate(-3.051 -4.037)" fill="#8e8e8e"/>
+  </g>
+</svg>
