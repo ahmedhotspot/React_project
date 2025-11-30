@@ -5,7 +5,8 @@ export type Tokens = {
 };
 
 export type LoginPayload = {
-  email: string;
+  email?: string;
+  iqama?: string;
   password: string;
 };
 
