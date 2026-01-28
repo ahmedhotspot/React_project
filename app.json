@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "هوت سبوت",
+    "slug": "hotspot",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#e74c3c"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#e74c3c"
+      },
+      "package": "com.hotspot.app",
+      "jsEngine": "hermes"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5717f365-0600-428a-bc1b-c9fcae92bae0"
+      }
+    }
+  }
+}
